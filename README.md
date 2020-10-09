@@ -1,5 +1,5 @@
 #特别说明
-element-ui 只支持vue2.0  由于他没有开发了，所以3.0好像不支持了，不能按正常流程使用
+element-ui 只支持vue2.0  由于他没有开发了，所以3.0好像不支持了，不能按正常流程使用--tututyl
 
 # element-starter
 
